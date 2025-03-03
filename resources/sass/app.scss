@@ -13,6 +13,10 @@
     cursor: pointer;
 }
 
+.clown {
+    font-size: 20rem;
+}
+
 // # Main → Jumbotron
 
 .jumbotron {
@@ -28,6 +32,10 @@
 }
 
 // # Header → Navbar
+
+header {
+    border-bottom: 1px solid black; // Necessary for the Clown to Shine!
+}
 
 .nav-link {
     margin: 0 1rem;

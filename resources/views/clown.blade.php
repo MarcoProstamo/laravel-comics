@@ -6,5 +6,8 @@
 @endsection
 
 @section('content')
-    Ciao sono un Clown 🤡
+    <div class="d-flex justify-content-center align-items-center flex-column">
+        <span class="clown">🤡</span>
+        <h1 class="fw-semibold text-primary">POPI POPI</h1>
+    </div>
 @endsection
