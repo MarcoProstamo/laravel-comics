@@ -7,11 +7,11 @@ Route::get('/', function () {
 })->name('comics');
 
 Route::get('/news', function () {
-    return view('comics');
+    return view('news');
 })->name('news');
 
 Route::get('/shop', function () {
-    return view('comics');
+    return view('shop');
 })->name('shop');
 
 Route::get('/clown', function () {

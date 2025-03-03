@@ -2,9 +2,9 @@
 
 
 @section('title')
-    Comics
+    Clown
 @endsection
 
 @section('content')
-    Ciao sono il Contenuto!
+    Ciao sono un Clown 🤡
 @endsection
