@@ -13,6 +13,21 @@
     cursor: pointer;
 }
 
+// # Main → Jumbotron
+
+.jumbotron {
+    background-image: url(../img/jumbotron.jpg);
+    background-size: cover;
+    min-height: 150px;
+}
+
+// # Main → Comics
+
+.comics-section {
+    background-color: #1c1c1c;
+    height: 200px;
+}
+
 // # Header → Navbar
 
 .nav-link {
