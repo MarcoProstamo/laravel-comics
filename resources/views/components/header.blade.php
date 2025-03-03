@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container">
+        <div class="container py-3">
             <a class="navbar-brand" href={{ route("comics") }}>
                 <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC Logo" width="30" height="30">
             </a>

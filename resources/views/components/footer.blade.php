@@ -1,5 +1,57 @@
 <footer>
-    <div class="upper-footer"></div>
+    <div class="upper-footer">
+        <div class="container py-3">
+            <div class="d-flex align-items-center">
+                <div class="row row-cols-3">
+                    <div class="col">
+                        <h5 class="text-light fw-semibold">DC COMICS</h5>
+                        <ul class="list-unstyled text-secondary">
+                            <li>Characters</li>
+                            <li>Comics</li>
+                            <li>Movies</li>
+                            <li>TV</li>
+                            <li>Games</li>
+                            <li>Videos</li>
+                            <li>News</li>
+                        </ul>
+
+                        <h5 class="text-light fw-semibold">SHOP</h5>
+                        <ul class="list-unstyled text-secondary">
+                            <li>Shop DC</li>
+                            <li>Shop DC Collectibles</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h5 class="text-light fw-semibold">DC</h5>
+                            <ul class="list-unstyled text-secondary">
+                                <li>Terms Of Use</li>
+                                <li>Privacy policy (New)</li>
+                                <li>Ad Choices</li>
+                                <li>Advertising</li>
+                                <li>Jobs</li>
+                                <li>Subscriptions</li>
+                                <li>Talent Workshops</li>
+                                <li>CPSC Certificates</li>
+                                <li>Ratings</li>
+                                <li>Shop Help</li>
+                                <li>Contact Us</li>
+                            </ul>
+                    </div>
+                    <div class="col">
+                        <h5 class="text-light fw-semibold">SITES</h5>
+                        <ul class="list-unstyled text-secondary">
+                            <li>DC</li>
+                            <li>MAD Magazine</li>
+                            <li>DC Kids</li>
+                            <li>DC Universe</li>
+                            <li>DC Power Visa</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-dc-logo mx-auto"></div>
+            </div>
+        </div>
+    </div>
     <div class="lower-footer">
         <div class="container py-3">
             <div class="d-flex justify-content-between align-items-center">

@@ -35,6 +35,27 @@
 
 // # Footer → Upper Footer
 
+.upper-footer {
+    background-image: url(../img/footer-bg.jpg);
+    font-size: 0.8rem;
+}
+
+.upper-footer li {
+    cursor: pointer;
+}
+
+.upper-footer li:hover {
+    color: #0282f9;
+}
+
+.footer-dc-logo {
+    background-image: url(../img/dc-logo-bg.png);
+    width: 350px;
+    aspect-ratio: 1;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 // # Footer → Lower Footer
 
 .lower-footer {
