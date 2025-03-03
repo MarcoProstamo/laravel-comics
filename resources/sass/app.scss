@@ -7,6 +7,14 @@
 // Bootstrap
 @import "bootstrap/scss/bootstrap";
 
+// # Utils
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+// # Header → Navbar
+
 .nav-link {
     margin: 0 1rem;
 }
@@ -23,4 +31,27 @@
     color: #0282f9 !important;
     border-bottom: 4px solid #0282f9;
     border-radius: 0.2rem;
+}
+
+// # Footer → Upper Footer
+
+// # Footer → Lower Footer
+
+.lower-footer {
+    background-color: #303030;
+}
+
+.btn.btn-sign-up {
+    border: 3px solid #0282f9;
+    color: white;
+    border-radius: 0;
+}
+
+.btn.btn-sign-up:hover {
+    background-color: #0282f9;
+}
+
+.social-link:hover {
+    background-color: #0282f9;
+    border-radius: 50%;
 }
